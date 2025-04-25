@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "mvGvF28ULFk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khani\\source\\repos\\TG_Crypto_Weather_Bot\\TG_Crypto_Weather_Bot\\TG_Weather_Bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khani\\.nuget\\packages\\anglesharp\\1.2.0\\anglesharp.1.2.0.nupkg.sha512",
+    "C:\\Users\\khani\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\khani\\.nuget\\packages\\microsoft.extensions.configuration.binder\\8.0.0\\microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "C:\\Users\\khani\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\khani\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\khani\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\khani\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\khani\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\khani\\.nuget\\packages\\system.text.json\\9.0.1\\system.text.json.9.0.1.nupkg.sha512",
+    "C:\\Users\\khani\\.nuget\\packages\\telegram.bot\\22.4.4\\telegram.bot.22.4.4.nupkg.sha512",
+    "C:\\Users\\khani\\.nuget\\packages\\videolibrary\\3.2.8\\videolibrary.3.2.8.nupkg.sha512",
+    "C:\\Users\\khani\\.nuget\\packages\\youtubeexplode\\6.5.4\\youtubeexplode.6.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
